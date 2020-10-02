@@ -3,4 +3,4 @@ I have designed and implementated file trasnfer over udp unlike ftp over tcp. Th
 
 I have not completed the code. But still it work with one client and server. 
 
-Try it. Till then I would try to improve the code and even if someone does let me know. I am open for querys or suggestions.
+Try it. Till then I would try to improve the code. I am open for querys or suggestions.
